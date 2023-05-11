@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinsunosu
-- 👀 I’m interested in optical chemical structure recognition, machine learning and artificial intelligence in scientific information curation and retrievals. 
--  I’m currently learning OCSR, ML and AI. 
+- 👀 I’m interested in machine learning and artificial intelligence in biomedical and chemical information curation and retrievals. 
+-  I’m currently learning ML and AI, specifically NLP and optical chemical structure recognition. 
 - 💞️ I’m looking to collaborate on the above items.
 - 📫 How to reach me ...please email me at jinsunosu@gmail.com
 
